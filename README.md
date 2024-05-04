@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromota05&layout=compact&hide_border=true&title_color=1488D4&text_color=1488D4&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedromota05&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pedromota05&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -44,10 +42,5 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=Vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-0D1117?style=for-the-badge&logo=Quasar&labelColor=0D1117)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=Flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedromota05}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1488D4&height=120&section=footer"/>
