@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1488D4&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1488D4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Gonçalves+Mota;I'm+19+years+old;I+am+from+Dourados,+MS;I+study+information+systems+at+UFGD;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1488D4&size=35&center=true&vCenter=true&width=100&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Gonçalves+Mota;I'm+19+years+old;I+am+from+Dourados,+MS;I+study+information+systems+at+UFGD;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="155px" src="https://github-readme-stats.vercel.app/api?username=pedromota05&show_icons=true&count_private=true&hide_border=true&title_color=1488D4&icon_color=1488D4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique Gonçalves Mota github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedromota05&show_icons=true&count_private=true&hide_border=true&title_color=1488D4&icon_color=1488D4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique Gonçalves Mota github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromota05&layout=compact&hide_border=true&title_color=1488D4&text_color=1488D4&bg_color=0d1117" />
 </div>
 
